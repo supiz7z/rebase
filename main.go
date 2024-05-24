@@ -8,6 +8,7 @@ func main() {
 	testRebase()
 	fmt.Println("local 3")
 	fmt.Println("main 3")
+	fmt.Println("local 4")
 }
 
 func testRebase() {
