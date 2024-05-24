@@ -7,6 +7,7 @@ func main() {
 	fmt.Println("local 1")
 	tryRebase()
 	tryRebaseToMain()
+	victory()
 }
 
 func tryRebase() {
@@ -15,4 +16,8 @@ func tryRebase() {
 
 func tryRebaseToMain() {
 	fmt.Println("to main")
+}
+
+func victory() {
+	fmt.Println("pidorasina")
 }
