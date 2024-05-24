@@ -6,6 +6,7 @@ func main() {
 	fmt.Println("start at main")
 	fmt.Println("start at local")
 	testRebase()
+	fmt.Println("local 3")
 }
 
 func testRebase() {
